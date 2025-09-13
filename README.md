@@ -21,7 +21,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 10   | 財金專1    | 514717004  | 吳廷莉 [GitHub](https://github.com/m401880821)|
 | 11   | 財金專1    | 514717007  | 黃士瑋 [GitHub](https://github.com/shih-wei0913)|
 | 12   | 財金專1    | 514717009  | 李致皜 [GitHub](https://github.com/BboyKTD) |
-| 13   | 財金專1    | 514717010  | 蔡玫宜 |[GitHub](https://github.com/meiyi-tsai) |
+| 13   | 財金專1    | 514717010  | 蔡玫宜 |
 | 14   | 財金專1    | 17012  | 陳美勤 [GitHub](https://github.com/miyo-chen) |
 | 15   | 財金專1    | 514717014  | 洪宜君 [GitHub](https://github.com/imsunny0527-Sunn)|
 | 16   | 財金專1    | 514717015  | 陳書宇 [GitHub](https://github.com/pc20245678-design) |
@@ -33,6 +33,6 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 22   | 財金專1    | 514717028  | 江明峰 [GitHub](https://github.com/MF0918)|
 | 23   | 財金所學分班 | IOF113028 | 曾玉燕 [GitHub](http://github.com/NorahTseng)|
 | 24   | 財金所學分班 | IOF113015 | 林煒軒 [GitHub](http://github.com/bimy09233)|
-| 25   | 財金所學分班 | IOF113035 | 李姿怡 |
+| 25   | 財金所學分班 | IOF113035 | 李姿怡 |[GitHub](https://github.com/exuberant5891-ui)
 | 26   | 財金所學分班 | IOF113029 | 王俊偉 |
 | 27   | 財金專1    | 514717008  | 雷力誌 [GitHub](https://github.com/raymg14)|
