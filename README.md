@@ -29,10 +29,10 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 18   | 財金專1    | 514717017  | 葉岡麟 |[GitHub](https://github.com/s9815089-cpu).|
 | 19   | 財金專1    | 514717022  | 吳玉觀  [GitHub](https://github.com/IsabelWu99)|
 | 20   | 財金專1    | 514717024  | 楊昶輝 |
-| 21   | 財金專1    | 514717025  | 陳俊呈 [GitHub](https://github.com/ChrisChen-212)|
+| 21   | 財金專1    | 514717025  | 陳俊呈 |
 | 22   | 財金專1    | 514717028  | 江明峰 [GitHub](https://github.com/MF0918)|
 | 23   | 財金所學分班 | IOF113028 | 曾玉燕 [GitHub](http://github.com/NorahTseng)|
 | 24   | 財金所學分班 | IOF113015 | 林煒軒 [GitHub](http://github.com/bimy09233)|
-| 25   | 財金所學分班 | IOF113035 | 李姿怡 |
+| 25   | 財金所學分班 | IOF113035 | 李姿怡 |[GitHub](https://github.com/exuberant5891-ui)
 | 26   | 財金所學分班 | IOF113029 | 王俊偉 |
 | 27   | 財金專1    | 514717008  | 雷力誌 [GitHub](https://github.com/raymg14)|
